@@ -1,1 +1,1 @@
-# BOOK_Deep-learning-that-starts-from-the-bottom-2
+# BOOK_Deep-learning-that-starts-from-scratch-2
